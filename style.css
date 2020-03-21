@@ -1,0 +1,19 @@
+body {
+    font-family: "Times New Roman", sans-serif;
+    color: #383838;
+}
+
+.avatar {
+    width:100px ;
+    border-radius: 30%;
+    float: left;
+    margin-right: 10px;
+}
+
+.page {
+    display: block;
+    margin-top: 5%;
+
+}
+
+
